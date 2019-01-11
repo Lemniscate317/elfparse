@@ -6,3 +6,5 @@
 查看so文件的程序段头信息(Program)
 * readelf -a xxx.so
 查看so文件的全部内容
+
+https://blog.csdn.net/jiangwei0910410003/article/details/49336613/
